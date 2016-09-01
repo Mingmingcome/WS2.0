@@ -87,6 +87,9 @@ body {
       top: 7px;
       z-index: 99;
     }
+    #consult .consult-form{
+      padding: 6px 20px;
+    }
     .btn-block{
       display: block;
       width: 100%;
